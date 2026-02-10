@@ -1,0 +1,17 @@
+# IDE specific files
+.idea/
+*.iml
+out/
+gen/
+
+# Build artifacts
+**/target/
+**/build/
+**/bin/
+
+# Dependencies
+**/node_modules/
+
+# System files
+.DS_Store
+*.log
